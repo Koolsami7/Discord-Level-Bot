@@ -1,5 +1,5 @@
 # Discord-Level-Bot
-This bot is meant to level you up on Discord servers that use MEE6 or other leveling platforms.
+This script is meant to level you up on Discord servers that use MEE6 or other leveling platforms.
 
 It will send messages over and over again with a random delay (3.5-10mins) to avoid getting caught easily.
 
